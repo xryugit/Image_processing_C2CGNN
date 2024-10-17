@@ -1,4 +1,4 @@
-# Fluorescence Microscopy Images processing 
+# Fluorescence Microscopy Images Processing 
 
 ## Brief summary 
 
